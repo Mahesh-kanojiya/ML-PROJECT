@@ -62,16 +62,6 @@ The recommendation engine is built using **Content-Based Filtering** and **Cosin
 
 ---
 
-# 🚀 Demo
-
-<img src="demo/1.png" alt="demo" width="70%">
-
-<img src="demo/2.png" alt="demo" width="70%">
-
-<img src="demo/3.png" alt="demo" width="70%">
-
----
-
 # 📊 Dataset Used
 
 TMDB 5000 Movie Dataset
@@ -146,14 +136,6 @@ Movie-Recommender-System/
 ---
 
 # ⚙️ Installation
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Movie-Recommender-System.git
-```
-
----
 
 ## Create Virtual Environment
 
